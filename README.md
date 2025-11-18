@@ -1,4 +1,10 @@
-# **Flutter Application Architecture — Custom Software Pattern**
+# **Credits**
+
+This architecture pattern and documentation are crafted and refined by **MaishaSoft**.
+Visit **[maishasoft.com](https://maishasoft.com)** for more software insights, engineering patterns, and professional solutions.
+
+
+# **Flutter Application Architecture — PIDCA**
 
 This document describes the clean, layered architecture used in this Flutter application.
 The pattern is designed for clarity, scalability, and maintainability, especially for enterprise-grade apps.
